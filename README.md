@@ -1,6 +1,9 @@
 # byaml.js
 TypeScript library for interacting with, and creating, [BYAML](https://github.com/Kinnay/Nintendo-File-Formats/wiki/BYAML-File-Format) files
 
+## Deprecated
+## See https://github.com/PretendoNetwork/nintendo-file-formats
+
 ## Install
 ```bash
 npm i @pretendonetwork/byaml
